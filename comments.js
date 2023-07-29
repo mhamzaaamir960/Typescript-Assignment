@@ -1,6 +1,8 @@
+"use strict";
 // This is my name
-var myName = "Hamza";
+Object.defineProperty(exports, "__esModule", { value: true });
+let myName = "Hamza";
 console.log(myName);
 // This is current date
-var currentDate = "14 July 2023";
+let currentDate = "14 July 2023";
 console.log(currentDate);

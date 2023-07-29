@@ -9,4 +9,3 @@ console.log(myName)
 
 let currentDate: string = "14 July 2023"
 console.log(currentDate)
-

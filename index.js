@@ -1,5 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 console.log("Hamza");
-var user = "Hamza";
+let user = "Hamza";
 console.log(user);
-var horizontalLine = "-";
-console.log(horizontalLine);
